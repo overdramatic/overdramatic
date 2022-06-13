@@ -10,4 +10,4 @@ Here you can find all my reclists, made for various synthesizers.
 ## Translations
 Here you can find all the softwares translations that I help with:
 
-- [OpenUTAU](https://github.com/stakira/OpenUtau "OpenUTAU")
+- [OpenUTAU](https://github.com/stakira/OpenUtau "OpenUTAU") (Brazilian Portuguese)
