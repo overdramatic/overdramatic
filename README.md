@@ -7,7 +7,7 @@ Here you can find all my reclists, made for various synthesizers.
 |-|-|-|-|
 |[CVC PT-BR](https://github.com/overdramatic/CVC-PTBR-Reclist "CVC PT-BR")|Brazilian Portuguese (CVC)|[BRAPA](https://github.com/overdramatic/BRAPA "BRAPA")|UTAU|
 
-## Translations
+# Translations
 Here you can find all the softwares translations that I help with:
 
 - [OpenUTAU](https://github.com/stakira/OpenUtau "OpenUTAU") (Brazilian Portuguese)
