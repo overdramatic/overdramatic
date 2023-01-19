@@ -15,3 +15,5 @@
 Here you can find all the softwares translations that I help with:
 
 - [OpenUTAU](https://github.com/stakira/OpenUtau "OpenUTAU") (Brazilian Portuguese)
+- [neuTalk](https://github.com/neutrogic/neuTalk "neuTalk") (Brazilian Portuguese)
+- [diff_svc_ui](https://github.com/neutrogic/diff_svc_ui "diff_svc_ui") (Brazilian Portuguese)
